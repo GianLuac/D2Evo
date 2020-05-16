@@ -4,7 +4,7 @@
 
 </head>
 <body>
-<div>
+<div> <! ––TÍTULO-->
     <h1>
         RUNEWORDS
     </h>
@@ -20,7 +20,7 @@
     perda de runes caras.
 </p>
 </div>
-
+<div><! –– ATALHOS PARA AS RUNEWORDS -->
 <dl>
     <dt>Rune Words Evo Level Baixo</dt>
     <dt>Rune Words Evo Level Médio</dt>
@@ -29,8 +29,8 @@
     <dt>Rune Words Patch 1.10</dt>
     <dt>Rune Words Originais/Patch 1.09</dt>
 </dl>
-
-<div>
+</div>
+<div> <! –– DESCRIÇÃO RUNEWORDS --> 
 <h2>DESCRIÇÃO DOS ITENS<h2>
 <dl>
     <dt>JEWELS<dt>
@@ -56,8 +56,11 @@
     <p>2) Confira se o Item tem o Número Exato de socketes listado na Fórmula.</p>
     <p>3) Você adicionou as runas na mesma ordem em que estão listadas? (Exemplo: Ort + Ral, Adicione a Ort e depois a Ral; Se você colocar: Ral e depois Ort não vai funcionar).</p>
     <p>4) Se na fórmula estiver escrito Body Armor, quer dizer que só vai funcionar com armaduras (e não com botas, luvas e etc). O Item precisa ser exatamente igual ao listado na Fórmula. Se for solicitada uma Espada (sword), não tente adicionar em um Machado (Axe) ou lança (Spear).</p>
+
 </dl>  
 </div> 
-
+<div> <!-- MISS SÃO ARQUIVOS OU IMAGENS QUE IRÃO SER REMODELADAS PRO APP E NÃO FORAM INCLUÍDAS -->
+    <p>Rune Words com uma estrela "MISS" são as mais novas</p>
+</div>
 </body>
 </html>
